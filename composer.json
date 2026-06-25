@@ -1,6 +1,7 @@
 {
   "name": "panelis-php/branch",
   "description": "Manage branches to organize data and enable multi-tenant access within the application",
+  "license": "MIT",
   "keywords": [
     "panelis"
   ],
